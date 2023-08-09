@@ -1,0 +1,11 @@
+body {
+    background: rgb(15,0,36);
+    background: linear-gradient(47deg, rgba(15,0,36,1) 0%, rgba(53,9,121,1) 35%, rgba(173,0,255,1) 100%);
+}
+h1 {
+    vertical-align: middle; 
+}
+.center {
+    text-align: center;
+
+  }
